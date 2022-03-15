@@ -2,4 +2,6 @@
 
 FROM r-base
 
+COPY . .
+
 CMD ["Rscript", "main.R"]
