@@ -1,1 +1,1 @@
-# Benchmark Python code
+# Benchmark R-lang code
